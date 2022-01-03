@@ -1,1 +1,1 @@
-# rsschool-cv
+https://thephe.github.io/rsschool-cv/
