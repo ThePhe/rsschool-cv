@@ -5,6 +5,7 @@
     *e-mail:puhachou@gmail.com
     *phone: +375296662977
     *GitHub: ThePhe
+    *telegram: @thephe
 
 
 ## *About me:*
